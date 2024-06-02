@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sraboni Mahbub</h1>
 <h3 align="center">A software developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **a sales dashboard**
+
 
 - 🌱 I’m currently learning **Python web development framework**
 
